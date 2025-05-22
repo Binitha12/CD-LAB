@@ -22,6 +22,7 @@ int main()
     int n;
     printf("Enter No of states ");
     //printf("Enter");
+    //printf("Enter no of states");
     scanf("%d",&n);
     int al=26;
     int transition_table[n][26];
